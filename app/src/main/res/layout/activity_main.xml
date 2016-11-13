@@ -9,9 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.freeman_smith.tthfunfacts.MainActivity"
-    android:background="@android:color/holo_green_light"
-    android:backgroundTint="@android:color/holo_green_dark"
-    android:backgroundTintMode="src_over">
+    android:background="@android:color/holo_green_light">
 
     <TextView
         android:layout_width="wrap_content"
@@ -41,6 +39,6 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_centerInParent="true"
-        tools:textColor="#ffffffff"
-        android:background="@android:color/holo_green_light" />
+        android:background="@android:color/background_light"
+        android:textColor="@android:color/holo_green_dark" />
 </RelativeLayout>
