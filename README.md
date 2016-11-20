@@ -21,11 +21,11 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 * TBD
 
 ### Database Diagram:
-![database diagram](database.png)
+![database diagram](http://ondras.zarovi.cz/sql/demo/)
 (database diagram from ...)
 
 ### Technical Specifications:
-(BDD table from ...)
+![BDD table](http://www.tablesgenerator.com/markdown_tables)
 
 ## Known Issues
 * None
