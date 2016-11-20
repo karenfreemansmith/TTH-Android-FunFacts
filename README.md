@@ -22,7 +22,6 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
 ### Database Diagram:
 ![database diagram](http://ondras.zarovi.cz/sql/demo/)
-(database diagram from ...)
 
 ### Technical Specifications:
 ![BDD table](http://www.tablesgenerator.com/markdown_tables)
