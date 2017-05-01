@@ -15,7 +15,7 @@ public class FactBook {
             "Honey is the only natural food that never spoils.",
             "The only continent with no active volcanos is Austalia.",
             "Coca-Cola originally contained cocaine.",
-            "Toilest account for 35% of indoor water use.",
+            "Toilets account for 35% of indoor water use.",
             "Fortune cookies were invented in San Francisco",
             "You can buy beer brewed from bananas (in eastern Africa).",
             "An average human brain is 78% water.",

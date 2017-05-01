@@ -12,33 +12,37 @@
     android:background="@android:color/holo_green_light">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Did you know?"
-        android:id="@+id/textView"
-        tools:textColor="#99ffffff" />
-
-    <TextView
         android:text="Not all zebras have stripes."
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/factTextView"
-        android:layout_above="@+id/nextFactButton"
-        android:layout_marginBottom="164dp"
-        android:textSize="24sp"
+        android:textSize="36sp"
         android:textAlignment="center"
         android:layout_centerInParent="true"
-        tools:textColor="#ffffffff" />
+        tools:textColor="@android:color/white"
+        android:textColor="@android:color/white"/>
 
     <Button
-        android:text="Next Fun Fact"
+        android:text="Try Another Fun Fact"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="43dp"
+        android:layout_marginBottom="42sp"
         android:id="@+id/nextFactButton"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_centerInParent="true"
         android:background="@android:color/background_light"
         android:textColor="@android:color/holo_green_dark" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bet you didn't know:"
+        android:textSize="24sp"
+        android:id="@+id/textView"
+        tools:textColor="@android:color/white"
+        android:textColor="@android:color/white"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42sp"/>
 </RelativeLayout>
