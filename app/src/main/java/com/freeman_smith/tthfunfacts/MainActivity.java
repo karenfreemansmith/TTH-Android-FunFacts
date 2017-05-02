@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         mFactTextView = (TextView) findViewById(R.id.factTextView);
         mMainActivity = (RelativeLayout) findViewById(R.id.activity_main);
         mNextFactButton = (Button) findViewById(R.id.nextFactButton);
